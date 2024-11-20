@@ -1,0 +1,9 @@
+faiss-cpu ##vector embedding
+groq
+langchain-groq ##open-source ai framework which support various task, mainly for generative ai application
+PyPDF2 #read pdf document
+langchain_google_genai
+langchain
+streamlit 
+langchain_community
+python-dotenv #to call environment variables
